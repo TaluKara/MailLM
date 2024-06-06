@@ -19,7 +19,7 @@ This project fetches unread messages from your Gmail inbox, saves them to a text
 - Google OAuth Client Library
 - groq Python Library
 
-- 
+
 Example output from running the script:
 ```
 (base) talu in ~/Projects/python/MailLM λ python main.py 
